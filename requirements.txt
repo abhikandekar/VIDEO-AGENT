@@ -16,6 +16,7 @@ langchain>=0.3
 langchain-core>=0.3
 langchain-huggingface>=0.1
 langchain-chroma>=0.1
+langchain-community==0.4.2
 
 # Vector database
 chromadb>=0.5
